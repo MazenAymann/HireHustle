@@ -1,0 +1,135 @@
+F i r s t  L a s t
+Cloud Engineer
+R E L E V A N T  W O R K  E X P E R I E N C E
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Resume Worded,
+London, United Kingdom
+Education technology startup with 50+ employees and $100m+ annual revenue
+Cloud Engineer
+11/2021 – Present
+●
+Delivered 15 cloud architectural solutions that successfully met the strategic
+needs of 7 clients of Resume Worded.
+●
+Automated log shipping (poor-man data guard) for RW’s cloud infrastructure
+by using scripting that reduced the cost of buying enterprise licenses by 74%.
+●
+Produced 32 technical documents that were tailored to the environment,
+objectives and requirements of over 2K customers.
+●
+Administered 51 AWS infrastructures such as S3, EC2, RDS, Route 53, ECS,
+and Application Load Balancer in the ﬁrst 3 months of resumption.
+Polyhire,
+London, United Kingdom
+NYSE-listed recruitment and employer branding company
+Cloud Administrator
+04/2019 – 10/2021
+●
+Offered 200 customers and partners access to secure shipment data,
+invoicing and other information through the internet, helping to increase
+revenue by 73%.
+●
+Contributed to the installation, administration and support of 190 servers,
+providing excellent service and troubleshooting assistance to 5K clients in
+2021.
+●
+Slashed spending on technology infrastructure and staff by 40% via migration
+of data and 15 key applications to the cloud.
+●
+Maintained 60% peak optimization by performing routine assessment of 4
+cloud environments, successfully tracking, analyzing and reporting overall
+health of the environment.
+Growthsi,
+London, United Kingdom & Barcelona, Spain
+Career training and membership SaaS with 150,000 users
+Software Engineer
+06/2018 – 03/2019
+●
+Worked with a 10-member cross-functional team for the conception,
+implementation and management of shopping cart microservices (REST API
+and UI).
+●
+Created an integration layer that allows the payroll solution of 10 international
+companies to be connected to any Enterprise Resource Planning (ERP)
+application that uses Microsoft platform.
+●
+Involved in the improvement and update of projects database and structure
+for 21 Growthsi clients in Q1 of 2019.
+P R E V I O U S  E X P E R I E N C E
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Java Developer,
+ABC Company, London, UK
+08/2017 –
+05/2018
+Junior Data Scientist,
+XYZ Company, New York, USA
+06/2015 – 07/2017
+.NET Developer (Internship),
+ABC, New York, USA
+07/2014
+– 05/2015
+C O N T A C T
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+•
+Cardiff, United Kingdom
+•
++44 0 123456789
+•
+ﬁrst.last@gmail.com
+S K I L L S
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Technical Skills:
+•
+Amaz on W eb Ser vices (A WS)
+•
+Azure SQL
+•
+BLOB St orage
+•
+Azure VM
+•
+Gradle
+•
+Jenkins
+Languages
+:
+•
+Bash
+•
+Python
+•
+SQL
+Tools and Softwar e:
+•
+Dock er
+•
+Kubernetes
+•
+Prometheus
+•
+AWS Cloud W atch
+Languages
+:
+•
+English (Nativ e)
+•
+Romanian (Nativ e)
+•
+Spanish (Conv ersational)
+E D U C A T I O N
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+University of New York
+Bachelor of Science
+Computer Science
+New York City, New York
+10/2011 - 06/2014
+O T H E R
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+•
+Certiﬁed Cloud Pr actitioner .
+•
+AWS Solutions Ar chitect
+Associate.
+•
+Azure Administr ator
+Associate.

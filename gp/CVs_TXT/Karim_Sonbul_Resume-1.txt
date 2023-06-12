@@ -1,0 +1,129 @@
+Karim Sonbul  Software Engineer
+sonbul.karim@gmail.com
+Karim Sonbul+20 1003164648
+Sonbul001
+EDUCATION
+Bachelor's Degree, Cairo University
+GPA: 3.51September 2019 –
+September 2023
+Cairo, Egypt
+•Learned basic programming concepts as well as complex 
+concepts such as algorithms and data structures.
+•Participated in many software development projects with 
+diverse multidisciplinary teams and using different 
+programming languages such as Java, C++, Prolog, Python, 
+Java EE, HTML, CSS, JS, React, Angular, Java SpringBoot, 
+MySQL.
+PROFESSIONAL EXPERIENCE
+Web Developer Intern, RadicalX
+•Worked with 9 people to deliver reusable and responsive web 
+components using React, HTML, CSS and JavaScript in an Agile 
+environment.
+•Aided in the design & implementation of the application user 
+interface.September 2022 –
+November 2022
+Cairo, Egypt
+•Documented and helped refactor the source code of the 
+application.
+Data Analyst Intern, Technocolabs Softwares
+•Was a part of a multidisciplinary team of 20 people assigned 
+to deliver a fully optimized dataset using pandas and 
+Machine learning models.
+•Analyzed more than 40 features to determine the most 
+significant one for the desired output.September 2022 –
+November 2022
+Cairo, Egypt
+AI Research Intern, NajahNow
+•Teamed with 5 amazing individuals to research about 
+sentiment analysis to predict mental issues from Arabic 
+written text.
+•Was deeply involved in writing about BERT transformers.November 2022 –
+October 2022
+Cairo, Egypt
+•Was able to achieve a high accuracy percentage of more than 
+90% when using the model.
+SKILLS
+ReactAngularHTML5CSS3JavaScriptPHPJava
+Spring BootSQLLinuxVersion Control (Git/Github)APIKarim Sonbul  Software Engineer
+sonbul.karim@gmail.com
+Karim Sonbul+20 1003164648
+Sonbul001
+EDUCATION
+Bachelor's Degree, Cairo University
+GPA: 3.51September 2019 –
+September 2023
+Cairo, Egypt
+•Learned basic programming concepts as well as complex 
+concepts such as algorithms and data structures.
+•Participated in many software development projects with 
+diverse multidisciplinary teams and using different 
+programming languages such as Java, C++, Prolog, Python, 
+Java EE, HTML, CSS, JS, React, Angular, Java SpringBoot, 
+MySQL.
+PROFESSIONAL EXPERIENCE
+Web Developer Intern, RadicalX
+•Worked with 9 people to deliver reusable and responsive web 
+components using React, HTML, CSS and JavaScript in an Agile 
+environment.
+•Aided in the design & implementation of the application user 
+interface.September 2022 –
+November 2022
+Cairo, Egypt
+•Documented and helped refactor the source code of the 
+application.
+Data Analyst Intern, Technocolabs Softwares
+•Was a part of a multidisciplinary team of 20 people assigned 
+to deliver a fully optimized dataset using pandas and 
+Machine learning models.
+•Analyzed more than 40 features to determine the most 
+significant one for the desired output.September 2022 –
+November 2022
+Cairo, Egypt
+AI Research Intern, NajahNow
+•Teamed with 5 amazing individuals to research about 
+sentiment analysis to predict mental issues from Arabic 
+written text.
+•Was deeply involved in writing about BERT transformers.November 2022 –
+October 2022
+Cairo, Egypt
+•Was able to achieve a high accuracy percentage of more than 
+90% when using the model.
+SKILLS
+ReactAngularHTML5CSS3JavaScriptPHPJava
+Spring BootSQLLinuxVersion Control (Git/Github)APIPROJECTS
+Apprenticeship Site, React
+•RadicalX internship project where i worked with 9 individuals to meet the 
+client's requirements.
+Click Website, HTML, CSS, JS, PHP
+•A simple HTML5, CSS3, JS, PHP and MYSQL solo project that shows an electronics 
+ecommerce website.
+Phonebook App, HTML, CSS, PHP
+•A phonebook web app using basic frontend and backend with no frameworks
+Genetic Algorithm, Java
+•Was aided by 2 individuals to create a simulation of the genetic algorithm with a 
+simple user interface.
+UberLike Web App, Java
+•Used Java Spring Boot to create an uber clone whose functions are exposed as 
+microservices.
+Intelligent Search App, Proglog
+•Prolog project which was used to learn more about Artificial Intelligence 
+concepts such as intelligent agents, lists, uninformed search and informed 
+search.
+CERTIFICATES
+ISTQB Certificate
+Foundation Certificate in Software 
+Testing
+Redhat Academy Attendace Certificate
+Red Hat OpenShift I: Containers & 
+Kubernetes (DO180)
+Introduction To HTML5
+Coursera
+Embedded Systems Certificate
+MSP tech club Cairo UniversityWeb Development Challenger Track
+Udacity
+Redhat Academy Attendance Certificate
+Red Hat Application Development I: 
+Programming in Java EE 
+(AD183)
+Introduction To CSS
+Coursera

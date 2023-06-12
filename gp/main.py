@@ -5,10 +5,11 @@ import time
 from datetime import datetime
 from Applicant import Applicant
 from HR_Recruiter import HrRecruiter
-from CV_Extraction import extract_cv_info
-from Interview_Scheduling import schedule_interview
+from cv_extraction import extract_cv_info
+from interview_scheduling import schedule_interview
 from linkedin_api import Linkedin
-from Score_Calculation import applicant_clustering
+from cluster import get_technical_cluster, get_cv_cluster
+from similarity import calc_similarity
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 
@@ -32,7 +33,7 @@ if __name__ == "__main__":
     recruiter = HrRecruiter("Messi", available_slots)
 
     # Define the path to the directory containing the CV PDF files
-    dir_path = 'C:/Users/Mazin/PycharmProjects/gp/dataset'
+    dir_path = 'C:/Users/Mazin/PycharmProjects/gp/CVs_PDF/'
 
     # Login to LinkedIN api with try-except in case of login errors
     while True:
@@ -80,15 +81,31 @@ if __name__ == "__main__":
         # Put all applicants objects in the list
         applicant_list.append(applicantObject)
 
-    # add the cluster_label column to the dataframe
-    df['Technical Cluster'] = applicant_clustering(applicant_list)
+        # add the similarity column to the dataframe
+    df['Similarity'] = calc_similarity(
+        'Job_description_PDF/',
+        'Job_description_TXT/',
+        'CVs_PDF/',
+        'CVs_TXT/'
+    )
 
-    # save the updated dataframe to a new CSV file
-    df.to_csv('cv_info.csv', index=False)
+    # add the cluster_label column to the dataframe
+    df['CV Cluster'] = get_cv_cluster('CVs_TXT')
+
+    # add the cluster_label column to the dataframe
+    df['Technical Cluster'] = get_technical_cluster(applicant_list)
+
+    # save the updated dataframe to a new CSV file and save it to cv infos folder
+    folder_name = 'cv infos'
+    if not os.path.exists(folder_name):
+        os.makedirs(folder_name)
+
+    cv_info = os.path.join(folder_name, 'cv_info.csv')
+    df.to_csv(cv_info, index=False)
 
     # Sending a confirmation email
     for index, applicant in enumerate(applicant_list, start=1):
-        print(f"{index}- {applicant.name}")
+        print(f"{index}- {applicant.email}")
 
     val = int(input("Please choose an applicant for the jop: "))
     schedule_interview(applicant_list[val - 1], recruiter)

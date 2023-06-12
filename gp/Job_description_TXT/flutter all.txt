@@ -1,0 +1,35 @@
+Flutter Developer at an Enterprise SaaS Company  
+ 
+We are looking out for a Flutter Developer who will be running and designing product application 
+features across various cross platform devices. Just like Lego boxes that fit on top of one another, 
+we are looking out for someone who has experience using Flutter widgets that can be plugged 
+together, customized and deployed anywhere. Someone who is passionate about code writing, 
+solving technical errors and taking up full ownership of app development  
+ 
+ 
+Flutter Developer Roles and Responsibilities  
+• You will be building and shipping robust apps to Android/ iOS devices using a 
+single codebase.  
+• You will be writing readable and clear code using Dart that will be extensively 
+documented for future use and upgrades . 
+• You will be sharing feedback and brainstorming ideas with teams to improve the 
+development process.  
+• Understand basic concepts of design for developing user friendly applications.  
+• Stay up to date with the latest technologies  
+ 
+ 
+Flutter Developer Skills and Qualifications  
+Basic  
+• Experience in development of Android/iOS applications and have deployed them on 
+Google Play/App Store.  
+• 3+ years knowledge in mobile app development.  
+• In depth understanding of front -end languages like HTML, CSS3 and JavaScript.  
+• In depth understanding of Object -Oriented  programming languages like Java and C++.  
+• Familiarity using version control tools like Git, Subversion etc. and IDEs like Android 
+Studio, VS Code etc.  
+• Understanding of the Agile Software Development Life Cycle and been exposed to Scrum 
+projects . 
+• Knowledge of Dart programming language, Rest APIs and integration of various APIs from 
+third parties.  
+• Comfortable using test cases for debugging code, enhancing performance and reliability.  
+ 

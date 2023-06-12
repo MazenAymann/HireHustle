@@ -1,0 +1,89 @@
+Mazen Ayman 
+Software Engineering Student 
+Software Engineering student with fundamental knowledge
+of software design, development and testing. Seeking to
+improve myself. 
+mazenaymanmo22@gmail.com 
+01022936472 
+Cairo, Egypt 
+linkedin.com/in/mazen-ayman-ab972024b 
+github.com/MazenAymann 
+EDUCATION 
+Computer Science and Artiﬁcial
+Intelligence 
+Cairo University 
+09/2019 - Present
+, 
+ 
+Object-Oriented
+Programming 
+Data Structures 
+Algorithms 
+Software Engineering 
+Software Modeling 
+Software Architecture 
+Java EE 7.0 
+Software Testing 
+High School 
+Atef Barakat Primary School 
+08/2018 - 07/2019
+, 
+ 
+PERSONAL PROJECTS 
+Flutter tasks 
+Samples for ﬂutter tasks are provided in my GitHub proﬁle
+in "Fcai-Flutter-Tasks" Repo. 
+Non-trival software system 
+Cairo University Project that practice 
+on the concepts that
+I have learned during the software architecture course 
+Trip scheduling system 
+Cairo University Project using Angular for Frontend, Spring
+Boot for Backend and MySQL for Database 
+Containerization project using Docker into 3 containers:
+Frontend container, Backend container and Database
+container 
+Deploying containers into OpenShift as containerized
+service 
+Market Website 
+Cairo University Project that practice on the concepts that
+I have learned during the Web Engineering course 
+Go To Bus 
+Cairo University Project that provide several Web Services
+in the Backend 
+SKILLS 
+Java 
+C++ 
+Dart 
+Flutter 
+Design Patterns 
+Software Modeling 
+Algorithms 
+ICDL 
+Testing Foundations 
+Containerization 
+Git 
+Self-learning 
+Team Worker 
+Hard Worker 
+CERTIFICATES 
+Red Hat Application Development I: Programming
+in Java EE (AD183) 
+Red Hat OpenShift I: Containers & Kubernetes
+(DO180) 
+Flutter Certiﬁcate 
+Flutter Certiﬁcate from Cairo University Workshop 
+ISTQB 
+Software Testing Foundation Level 
+Certiﬁcate of Profession from ISTQB 
+LANGUAGES 
+Arabic 
+Native or Bilingual
+Proﬁciency 
+English 
+Professional Working
+Proﬁciency 
+INTERESTS 
+Programming 
+Soccer 
+Courses 

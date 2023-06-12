@@ -1,0 +1,109 @@
+Sherif Emad Taha
+Software Engineer
+(+20)155-672-5551 | sherif.emad1091@gmail.com |SherifEmad20 |sherifemad21
+About me
+Software engineer with 3+ years of experience in developing software. Skilled in a range of programming
+languages, including Java, typescript, and C++, and well-versed in software development methodologies such as
+Agile and Scrum. Intermediate problem-solving and good communication skills, able to work effectively in both
+team and individual settings. Passionate about staying up-to-date with the latest technology trends and using that
+knowledge to drive business success.
+Education
+Cairo University
+Faculty of computer science and artificial intelligence 2019 - Present
+Certificates
+Red Hat System Administration I (RH124)
+Red Hat Application Development I: Programming in Java EE (AD183)
+Technical Skills
+Programming in javaEE 7.0 Intimate knowledge of relational database
+Red Hat Linux system administration Good knowledge of data structures
+Good knowledge of design patterns and design principles Intimate knowledge of algorithm analysis
+Good knowledge of object oriented programming Intimate knowledge of software architecture styles and views
+Intimate knowledge of SOA and web services using RESTful APIs
+Intimate knowledge of software manual and automated testing Intimate knowledge of containerization using docker and podman
+Intimate knowledge of kubernates and openshift Intimate knowledge in PHP development
+Technical Tools
+Spring Boot Jboss
+HTML CSS and Bootstrap
+Angular Postman
+RESTful services MYSQL
+JUnit and Selenium C++
+Python Docker
+Podman GIT
+Trello Jira
+Undergraduate Projects
+Trips Scheduling
+A full stack project Using MSQL database, Spring Boot back end and Angular front end. Project is containerized using
+Dockerfiles and images are pushed to docker hub and deployed to openshift using yaml files.
+go to bus
+Using Jboss back end and in-memory database to develop RESTful APIs to create users, stations, and trips.
+Hotel management system
+Hotel management system using design patterns.
+Multi-threading router and devices simulation
+Using Java synchronization and threads to make a simulation of router and devices using semaphores
+1 /2Sherif Emad Taha
+Software Engineer
+(+20)155-672-5551 | sherif.emad1091@gmail.com |SherifEmad20 |sherifemad21
+About me
+Software engineer with 3+ years of experience in developing software. Skilled in a range of programming
+languages, including Java, typescript, and C++, and well-versed in software development methodologies such as
+Agile and Scrum. Intermediate problem-solving and good communication skills, able to work effectively in both
+team and individual settings. Passionate about staying up-to-date with the latest technology trends and using that
+knowledge to drive business success.
+Education
+Cairo University
+Faculty of computer science and artificial intelligence 2019 - Present
+Certificates
+Red Hat System Administration I (RH124)
+Red Hat Application Development I: Programming in Java EE (AD183)
+Technical Skills
+Programming in javaEE 7.0 Intimate knowledge of relational database
+Red Hat Linux system administration Good knowledge of data structures
+Good knowledge of design patterns and design principles Intimate knowledge of algorithm analysis
+Good knowledge of object oriented programming Intimate knowledge of software architecture styles and views
+Intimate knowledge of SOA and web services using RESTful APIs
+Intimate knowledge of software manual and automated testing Intimate knowledge of containerization using docker and podman
+Intimate knowledge of kubernates and openshift Intimate knowledge in PHP development
+Technical Tools
+Spring Boot Jboss
+HTML CSS and Bootstrap
+Angular Postman
+RESTful services MYSQL
+JUnit and Selenium C++
+Python Docker
+Podman GIT
+Trello Jira
+Undergraduate Projects
+Trips Scheduling
+A full stack project Using MSQL database, Spring Boot back end and Angular front end. Project is containerized using
+Dockerfiles and images are pushed to docker hub and deployed to openshift using yaml files.
+go to bus
+Using Jboss back end and in-memory database to develop RESTful APIs to create users, stations, and trips.
+Hotel management system
+Hotel management system using design patterns.
+Multi-threading router and devices simulation
+Using Java synchronization and threads to make a simulation of router and devices using semaphores
+1 /2Client-server chat
+Single client server chat using Java sockets
+Simulating recursion
+Simulating recursion using stack of calls implemented in C++
+Simulating polymorphism
+Simulating polymorphism using virtual tables implemented in C++
+Summer internships and volunteer Services
+BanqueMisr Summer Internship program “Rowad 2022”- IT department
+Trainee Aug.2022
+ECPC AAST
+Contestant Aug. 2021
+ECPC AAST
+Contestant Aug. 2022
+Personal
+In addition to technical skills, the software engineer possesses strong personal skills, including:
+1. Collaboration: able to work effectively with teams or individually.
+2. Communication: clear and concise in both written and verbal communication, able to explain complex technical
+concepts to non-technical stakeholders.
+3. Adaptability: quick learner and able to adapt to new technologies and changing project requirements.
+4. Problem-solving: creative and analytical, able to identify and solve complex problems.
+5. Leadership: confident and capable of leading projects.
+6. Attention to detail: meticulous and thorough, ensures high-quality software is delivered with minimal bugs.
+7. Passion for technology: self-motivated and always seeking to expand their knowledge and stay up-to-date with
+the latest advancements in the field.
+2 /2

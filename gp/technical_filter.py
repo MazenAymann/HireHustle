@@ -1,15 +1,3 @@
-from Applicant import Applicant
-import numpy as np
-from sklearn.cluster import KMeans
-from sklearn.preprocessing import StandardScaler
-
-# Set the weights for each factor
-technical_weight = 0.3
-experience_weight = 0.2
-industry_weight = 0.1
-communication_weight = 0.1
-
-
 def calculate_score(applicant):
     # Calculate the score for technical skills
     numCommits = 0
@@ -140,44 +128,3 @@ def get_spoken_languages(applicant, lang=None):
             return 0
     else:
         return len(applicant.languages)
-
-
-# define a function to extract features from each applicant object
-def extract_features(applicant):
-    repos = len(applicant.github_repos_commits)
-    industry = len(applicant.industry_name)
-    certs = get_certificates(applicant)
-    exp_years = get_exp_years(applicant)
-    edu_level = len(applicant.education)
-    prog_langs = get_programming_languages_lines(applicant)
-    spoken_langs = len(applicant.languages)
-
-    # convert features to a numerical vector
-    features = [repos, industry, certs, exp_years, edu_level, prog_langs, spoken_langs]
-    feature_vec = []
-    for feature in features:
-        if isinstance(feature, list):
-            feature_vec.extend(feature)
-        else:
-            feature_vec.append(feature)
-    return feature_vec
-
-
-def applicant_clustering(applicant_list):
-    # extract features from each applicant object
-    X = [extract_features(applicant) for applicant in applicant_list]
-
-    # standardize the feature values to have zero mean and unit variance
-    scaler = StandardScaler()
-    X_scaled = scaler.fit_transform(X)
-
-    # apply K-means clustering to group applicants into clusters
-    kmeans = KMeans(n_clusters=3, random_state=0, n_init=20)
-    kmeans.fit(X_scaled)
-    cluster_labels = kmeans.predict(X_scaled)
-
-    # Give each applicant his cluster
-    for i, applicant in enumerate(applicant_list):
-        applicant.cluster = cluster_labels[i]
-
-    return cluster_labels
