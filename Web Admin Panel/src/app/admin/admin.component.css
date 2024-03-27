@@ -1,0 +1,286 @@
+/* .admin-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+
+.custom-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.card {
+  width: 300px;
+  margin: 0 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+mat-card {
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 1px 1px 50px #000;
+  transition: transform 0.3s;
+  backdrop-filter: blur(1px);
+  
+}
+
+mat-card:hover {
+  transform: scale(1.05);
+}
+
+mat-card-title {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+mat-card-content {
+  font-size: 16px;
+  color: #444;
+}
+
+app-footer {
+  background-color: #3f51b5;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+  width: 100%;
+}
+
+app-footer p {
+  font-size: 25px;
+  margin: 0;
+}
+
+header {
+  background-color: #333;
+  padding: 1rem;
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+nav a {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0 1rem;
+}
+
+
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1;
+}
+.photo-container {
+  margin-top: 2rem;
+}
+
+.photo-container img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.card-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+  margin-bottom: 1rem;
+
+}
+.card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.card-content mat-card-title {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.card-content mat-card-content {
+  font-size: 16px;
+  color: #444;
+}
+ */
+ .admin-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+
+.custom-image {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  z-index: -1;
+}
+
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.card {
+  width: 300px;
+  margin: 0 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+mat-card {
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 1px 1px 50px #000;
+  transition: transform 0.3s;
+  backdrop-filter: blur(1px);
+  
+}
+
+mat-card:hover {
+  transform: scale(1.05);
+}
+
+mat-card-title {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+mat-card-content {
+  font-size: 16px;
+  color: #444;
+}
+
+app-footer {
+  background-color: #3f51b5;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+  width: 100%;
+}
+
+app-footer p {
+  font-size: 25px;
+  margin: 0;
+}
+
+header {
+  background-color: #333;
+  padding: 1rem;
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+nav a {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0 1rem;
+}
+
+
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1;
+}
+
+.photo-container img {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+
+.card-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+  margin-bottom: 1rem;
+
+}
+.card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.card-content mat-card-title {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.card-content mat-card-content {
+  font-size: 16px;
+  color: #444;
+}
+
+

@@ -1,0 +1,31 @@
+
+<img src="https://i.imgur.com/Eor57Ae.jpg" class="custom-image">
+  <app-header></app-header>
+  <h1>
+    <span class="blue"></span> <span class="yellow">
+  
+  <table class="container">
+    <thead>
+      <tr>
+        <th style="color: cornflowerblue">Job ID</th>
+        <th style="color: cornflowerblue">Job Title</th>
+        <th style="color: cornflowerblue">Job Catogry</th>
+        <th style="color: cornflowerblue">Expiration Period</th>
+        <th style="color: cornflowerblue">Working Hours</th>
+        <th style="color: cornflowerblue">Creation Time</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let post of p">
+        <td style="color: white;">{{post.id}}</td>
+        <td style="color: white;">{{ post.jobTitle }}</td>
+        <td style="color: white;">{{ post.jobCategory }}</td>
+        <td style="color: white;">{{ post.expirationPeriod }}</td>
+        <td style="color: white;">{{ post.workingHours }}</td>
+        <td style="color: white;">{{ post.creationTime }}</td>
+      </tr>
+    </tbody>
+  </table>
+  </span>
+  </h1>
+

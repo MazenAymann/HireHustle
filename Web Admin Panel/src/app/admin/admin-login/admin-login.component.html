@@ -1,0 +1,22 @@
+
+    <img src="https://i.imgur.com/Eor57Ae.jpg" class="custom-image">
+
+
+<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+<div id="login-button">
+  <img src="https://dqcgrsy5v35b9.cloudfront.net/cruiseplanner/assets/img/icons/login-w-icon.png">
+</div>
+<div id="container">
+  <h1>Log In</h1>
+  <span class="close-btn">
+    <img src="https://cdn4.iconfinder.com/data/icons/miu/22/circle_close_delete_-128.png">
+  </span>
+
+  <form #myForm="ngForm">
+    <input type="text" class="username" name="username"  placeholder="Username"  [(ngModel)]="username" required>
+    <input type="password" name="password" placeholder="Password"  [(ngModel)]="password" required>
+    <button type="submit" [disabled]="!myForm.form.valid" [class.enabled-button]="myForm.form.valid" [class.disabled-button]="!myForm.form.valid" (click)="adminSigIn(username,password)">Log in</button>
+  </form>
+</div>
+<script src="src/assets/custom-scripts.js"></script>

@@ -1,0 +1,37 @@
+
+<img src="https://i.imgur.com/Eor57Ae.jpg" class="custom-image">
+<app-header></app-header>
+<h1>
+  <span class="blue"></span> <span class="yellow">HR List
+
+<table class="container">
+  <thead>
+    <tr>
+      <th style="color: cornflowerblue">ID</th>
+      <th style="color: cornflowerblue">Username</th>
+      <th style="color: cornflowerblue">Email</th>
+      <th style="color: cornflowerblue">First Name</th>
+      <th style="color: cornflowerblue">Age</th>
+      <th style="color: cornflowerblue">Enable Account</th>
+      <th style="color: cornflowerblue">Activated</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let applicant of applicants">
+      <td style="color: white">{{applicant.id}}</td>
+      <td style="color: white">{{ applicant.username }}</td>
+      <td style="color: white">{{ applicant.email }}</td>
+      <td style="color: white">{{ applicant.firstName }}</td>
+      <td style="color: white">{{ applicant.age }}</td>
+      <td>
+        <mat-slide-toggle class="custom-slide-toggle" [(ngModel)]="applicant.enabled" color="green" (change)="toggleAccount(applicant)"></mat-slide-toggle>
+
+      </td>
+      <td>
+        <mat-slide-toggle  [(ngModel)]="applicant.activated" color="green" (change)="toggleActivationAccount(applicant)"></mat-slide-toggle>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</span>
+</h1>
