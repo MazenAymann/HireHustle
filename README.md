@@ -24,6 +24,6 @@ We developed 2 mobile applications, 1 for HR and the other for the applicant, a 
 # Technologies Used
 - Frontend: Flutter
 - Backend: Spring Boot
-- AI Algorithms: Pythin
+- AI Algorithms: Python
 # Acknowledgments
 Special thanks to Cairo University, our project mentors, and the academic faculty for their guidance and support.
